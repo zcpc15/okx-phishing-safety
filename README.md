@@ -1,0 +1,1 @@
+# okx-phishing-safety
